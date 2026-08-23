@@ -6,7 +6,7 @@ I am an IT security specialist with extensive practical experience in identifyin
 
 I follow the principle of lifelong learning to continuously develop myself and stay up to date with the latest advancements in IT security.
 
-## 🔒 Projeler
+## 🔒 Projects
 
 - **[Splunk SIEM — Attack Detection & MITRE ATT&CK Mapping](https://github.com/merterakinci/splunk-siem-attack-detection)**  
   Custom SPL detections for RDP brute-force, discovery, and network scanning — full attack chain reconstruction
